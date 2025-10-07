@@ -16,6 +16,6 @@ This project tracks user steps and calculates calories burned — a simple but p
 
 **📸 Preview**
 
-![image](https://github.com/user-attachments/assets/8d664c83-07ae-4584-bf15-200db958bb4d)
-![image](https://github.com/user-attachments/assets/554ae194-21bc-4850-97e5-3dad20cb4cbf)
+<img width="672" height="1496" alt="Screenshot_20251007_113236" src="https://github.com/user-attachments/assets/3fabe4a4-bf5b-40ed-b982-e6b501a6bda2" />
 
+<img width="672" height="1496" alt="Screenshot_20251007_113200" src="https://github.com/user-attachments/assets/125d448f-f341-4eb8-b08d-5f95d05e41a9" />
